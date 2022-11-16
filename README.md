@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Micah
+- 👀 I’m interested in compilers, datascience, and new programming languages
+- 🌱 I’m currently learning Rust
