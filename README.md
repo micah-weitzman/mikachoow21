@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Micah
-- 👀 I’m interested in compilers, datascience, and new programming languages
+- 👨‍💻 I'm a software engineer @ Google 
+- 👀 I’m interested in distributed systems, networking, and functional programming. 
 - 🌱 I’m currently learning Rust
